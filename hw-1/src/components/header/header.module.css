@@ -1,0 +1,13 @@
+.list {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    width: 500px;
+    height: 100px;
+    flex-direction: row;
+    gap: 25px;
+    margin-bottom: 90px ;
+}

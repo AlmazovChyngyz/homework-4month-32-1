@@ -1,0 +1,14 @@
+.footer {
+    margin-top: 90px ;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    width: 500px;
+    height: 100px;
+}
+h3 {
+    cursor: pointer;
+}

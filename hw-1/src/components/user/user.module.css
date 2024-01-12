@@ -1,0 +1,8 @@
+.job {
+    width: 300px;
+    height: 60px;
+    background-color: #11335d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
