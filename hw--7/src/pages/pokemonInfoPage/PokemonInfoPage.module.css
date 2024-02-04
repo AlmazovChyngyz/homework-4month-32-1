@@ -1,0 +1,14 @@
+.modalWrap {
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*align-content: center;*/
+    /*justify-content: center;*/
+    color: black;
+    font-size: 20px;
+    padding: 20px;
+    font-weight: 600;
+}
+.imgPok {
+    width: 200px;
+    height: 200px;
+}
